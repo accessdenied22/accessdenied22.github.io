@@ -2,35 +2,53 @@
 layout: default
 ---
 <div class="home">
-    <div class="bio-block">
-        <div class="center-align">
-            <img src="{{ page.profile_pic }}" class="bio-profile-pic" alt="Profile picture" />
+    <div class="about-block">
+        <div class="about-pic column-4th">
+            <img src="{{ page.logo_src }}" class="about-logo" alt="Profile picture" />
         </div>
-        <div class="bio-content">
-            <h1>About Me</h1>
+        <div class="about-content">
+            <h1>About Us</h1>
             <p>{{ page.bio }}</p>
         </div>
     </div>
   {{ content }}
 
-  {%- if site.posts.size > 0 -%}
-    <h2>{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
+  <div class="team-block">
+      <h1 class="team-block-heading">Our Team</h1>
+      <div class="row">
+          <div class="column-4th">
+              <div class="team-card">
+                  <h3 class="team-card-heading">Werner Bayas</h3>
+                  <div class="team-card-content">
+                      <img src="{{ page.werner_profile_src }}" alt="Werner Bayas profile">
+                  </div>
+              </div>
+          </div>
+          <div class="column-4th">
+              <div class="team-card">
+                  <h3 class="team-card-heading">Kiana Erickson</h3>
+                  <div class="team-card-content">
+                      <img src="{{ page.kiana_profile_src }}" alt="Kiana Erickson profile">
+                  </div>
+              </div>
+          </div>
+          <div class="column-4th">
+              <div class="team-card">
+                  <h3 class="team-card-heading">Ming He</h3>
+                  <div class="team-card-content">
+                      <img src="{{ page.ming_profile_src }}" alt="Ming He profile">
+                  </div>
+              </div>
+          </div>
+          <div class="column-4th">
+              <div class="team-card">
+                  <h3 class="team-card-heading">Maneesh John</h3>
+                  <div class="team-card-content">
+                      <img src="{{ page.maneesh_profile_src }}" alt="Maneesh John profile">
+                  </div>
+              </div>
+          </div>
+      </div>
+  </div>
 
 </div>
