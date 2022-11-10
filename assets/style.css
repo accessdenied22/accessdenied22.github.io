@@ -1,0 +1,55 @@
+body {
+    box-sizing: border-box;
+}
+
+.bio-block {
+    padding-bottom: 1em;
+}
+.bio-profile-pic {
+    border-radius: 50%;
+}
+.bio-content {
+    padding-left: 2em;
+}
+
+.column-half {
+    width:50%;
+}
+.column-third {
+    width:33.333%;
+}
+.column-fourth {
+    width: 25%;
+}
+.column-three-fourth {
+    width: 75%;
+}
+.row {
+    width: 100%;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer-col-wrapper {
+    text-align: center;
+}
+
+.underline { text-decoration: underline; }
+.space-below { padding-bottom: 1em; }
+
+.post-title, .post-meta {
+	text-align: center;
+}
+.post-content p img {
+    display: block;
+    margin: auto;
+}
+.post-content p img + em {
+    display: block;
+    text-align: center;
+    color: #777;
+}
+
+.center-align {
+    text-align: center;
+}
