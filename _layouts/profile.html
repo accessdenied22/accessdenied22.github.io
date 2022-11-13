@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="profile-header">
+    <h1 class="profile-title">{{ page.title }}</h1>
+    <h2 class="profile-greeting">{{ page.greeting }}</h2>
+</div>
+
+{{ content }}
+
+<div class="profile-gallery">
+  <div class="row">
+      {% for img_src in page.img_sources %}
+      <div class="col">
+          <img src="{{ img_src }}" alt="photo">
+      </div>
+      {% endfor %}
+  </div>
+</div>

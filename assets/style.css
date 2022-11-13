@@ -3,23 +3,32 @@ body {
 }
 
 /* ROW-COLUMN CLASSES */
-.column-half {
-    width:50%;
+.col {
+    flex: 1;
+    padding: 10px;
 }
-.column-3rd {
-    width:33.333%;
+.col-4th {
+    flex: 1;
+    flex-basis: 25%;
+    padding: 10px;
 }
-.column-4th {
-    width: 25%;
-}
-.column-3-4th {
-    width: 75%;
+.col-3-4th {
+    flex: 1;
+    flex-basis: 75%;
+    padding: 10px;
 }
 .row {
     width: 100%;
-    display: inline-flex;
+    display: flex;
     justify-content: center;
     align-items: center;
+}
+@media only screen and (max-width: 600px) {
+  .row, .col, .col-4th, .col-3-4th {
+    display: block;
+    width: 100%;
+    padding: 10px 0px;
+  }
 }
 
 
@@ -32,8 +41,9 @@ body {
 }
 .about-pic {
     margin: auto;
+    width: 25%;
 }
-.about-logo {
+.circle-img {
     border-radius: 50%;
 }
 .about-content {
@@ -59,6 +69,19 @@ body {
 /* FOOTER */
 .footer-col-wrapper {
     text-align: center;
+}
+
+.profile-header {
+    text-align: center;
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 1em;
+}
+
+.profile-gallery {
+    padding-top: 0.5em;
+    border-top: 1px solid #ccc;
+    margin-top: 1em;
 }
 
 /* GENERAL */
