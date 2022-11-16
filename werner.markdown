@@ -2,6 +2,11 @@
 layout: default
 title: Werner Bayas
 permalink: /werner/
+profile_pic_src: /assets/img/
+img_sources: /assets/img/WB profile.jpg
+  - /assets/img/WB-pic1.JPG
+  - /assets/img/WB-pic2.JPG
+  - /assets/img/WB-pic3.JPG
 greeting: Hi! Welcome to my profile page!
 ---
 
@@ -24,6 +29,9 @@ Electrical Engineering focused on Computer Hardware, with a Technological Entrep
 - #doglover
 - Did I mention traveling?
 - Good Netflix TV shows
+
+### Fun fact: 
+- Proud dad of a Pomeranian Mix girl 
 
 ## Current Experience:
 
