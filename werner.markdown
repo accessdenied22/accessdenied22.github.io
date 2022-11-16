@@ -2,15 +2,41 @@
 layout: default
 title: Werner Bayas
 permalink: /werner/
+greeting: Hi! Welcome to my profile page!
 ---
-# Hi! Welcome to my page.
-### I am a member of Access Denied. This is one the group for Senior Desing Fall '22.
-### If you want to know a little bit more about me, please keep reading!
+
+I'm a member of team Access Denied in ECE Senior Design for the 2022-2023 academic year.
+
 ## Major:
-### Electrical Engineer focusing in Computer Hardware and Entrepreneurship
+
+Electrical Engineering focused on Computer Hardware, with a Technological Entrepreneurship Certificate
+
 ## Skills:
-### None
+- Circuit Design: LTSpice
+- Programming Languages: Assembly Language, C, C++, Matlab
+
+## Language skills:
+- Spanish (Native)
+- English (Proficient)
+
 ## Interests:
-### Travel the world
+- Traveling
+- #doglover
+- Did I mention traveling?
+- Good Netflix TV shows
+
+## Current Experience:
+
+### Collins Aerospace
+- Electrical Engineer Co-op in charge of developing test plan 
+for the new generation of module inside of the KC-135 tankers
+
+### Peer Advisor - College of Engineering UoI
+- I have planning the "Employer of the week" event
+- I am part of the team that coordinate activities to keep students
+ engage with the development center at the College of Engineering
+
+
+
 ## Contact information:
-### You can reach me by email: Werner_bayas@hotmail.com
+Feel free to contact me at [werner_bayas@hotmail.com](mailto:werner_bayas@hotmail.com)
