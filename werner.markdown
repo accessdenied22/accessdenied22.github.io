@@ -31,7 +31,7 @@ Electrical Engineering focused on Computer Hardware, with a Technological Entrep
 - Good Netflix TV shows
 
 ### Fun fact: 
-- Proud dad of a Pomeranian Mix girl 
+- Proud dad of a Pomeranian Mix girl  
 
 ## Current Experience:
 
@@ -43,6 +43,8 @@ for the new generation of computational modules inside of the KC-135 tankers
 - I help planning the "Employer of the week" event
 - I coordinate activities to keep students
  engage with the Development Center at the College of Engineering
+
+ ### Bank of America - starting in summer '23
 
 
 
