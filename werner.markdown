@@ -4,9 +4,9 @@ title: Werner Bayas
 permalink: /werner/
 profile_pic_src: /assets/img/
 img_sources: /assets/img/WB profile.jpg
-  - /assets/img/WB-pic1.JPG
-  - /assets/img/WB-pic2.JPG
-  - /assets/img/WB-pic3.JPG
+  - /assets/img/WB-pic1.jpg
+  - /assets/img/WB-pic2.jpg
+  - /assets/img/WB-pic3.jpg
 greeting: Hi! Welcome to my profile page!
 ---
 
@@ -30,13 +30,13 @@ Electrical Engineering focused on Computer Hardware, with a Technological Entrep
 - Did I mention traveling?
 - Good Netflix TV shows
 
-### Fun fact: 
+### Fun fact:
 - Proud dad of a Pomeranian Mix girl  
 
 ## Current Experience:
 
 ### Collins Aerospace
-- Electrical Engineer Co-op in charge of developing test plan 
+- Electrical Engineer Co-op in charge of developing test plan
 for the new generation of computational modules inside of the KC-135 tankers
 
 ### Peer Advisor - College of Engineering UoI
