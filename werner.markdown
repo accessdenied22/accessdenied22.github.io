@@ -29,12 +29,12 @@ Electrical Engineering focused on Computer Hardware, with a Technological Entrep
 
 ### Collins Aerospace
 - Electrical Engineer Co-op in charge of developing test plan 
-for the new generation of module inside of the KC-135 tankers
+for the new generation of computational modules inside of the KC-135 tankers
 
 ### Peer Advisor - College of Engineering UoI
-- I have planning the "Employer of the week" event
-- I am part of the team that coordinate activities to keep students
- engage with the development center at the College of Engineering
+- I help planning the "Employer of the week" event
+- I coordinate activities to keep students
+ engage with the Development Center at the College of Engineering
 
 
 
