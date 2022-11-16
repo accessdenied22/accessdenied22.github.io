@@ -44,7 +44,7 @@ for the new generation of computational modules inside of the KC-135 tankers
 - I coordinate activities to keep students
  engage with the Development Center at the College of Engineering
 
- ### Bank of America - starting in summer '23
+### Bank of America - starting in summer '23
 
 
 
