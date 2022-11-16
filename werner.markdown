@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: profile
 title: Werner Bayas
 permalink: /werner/
 profile_pic_src: /assets/img/
