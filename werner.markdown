@@ -3,7 +3,7 @@ layout: profile
 title: Werner Bayas
 permalink: /werner/
 profile_pic_src: /assets/img/
-img_sources: /assets/img/WB profile.jpg
+img_sources:
   - /assets/img/WB-pic1.jpg
   - /assets/img/WB-pic2.jpg
   - /assets/img/WB-pic3.jpg
