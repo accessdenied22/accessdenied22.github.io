@@ -10,7 +10,7 @@ kiana_url: /kiana/
 kiana_profile_src: /assets/img/kiana_headshot2022_square.jpg
 # Ming
 ming_url: /ming/
-ming_profile_src: /assets/img/ming-profile2.jpg
+ming_profile_src: /assets/img/ming-profile3.jpg
 # Maneesh
 maneesh_url: /maneesh/
 maneesh_profile_src: /assets/img/maneesh-profile.JPG
