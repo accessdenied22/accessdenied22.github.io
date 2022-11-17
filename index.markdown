@@ -6,7 +6,7 @@ bio: >-
 logo_src: /assets/img/access-denied-logo.png
 # Werner
 werner_url: /werner/
-werner_profile_src: /assets/img/cat1.jpg
+werner_profile_src: /assets/img/WB profile_final.jpg
 # Kiana
 kiana_url: /kiana/
 kiana_profile_src: /assets/img/kiana_headshot2022_square.jpg
