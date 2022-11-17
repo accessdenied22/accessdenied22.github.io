@@ -49,6 +49,9 @@ body {
 .about-content {
 
 }
+.team-block-heading {
+    text-align: center;
+}
 .team-card {
     margin: 10px;
     padding-top: 1em;

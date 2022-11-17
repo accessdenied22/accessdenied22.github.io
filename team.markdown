@@ -1,18 +1,17 @@
 ---
-layout: default
+layout: team
 title: Team
 permalink: /team/
+# Werner
+werner_url: /werner/
+werner_profile_src: /assets/img/WB profile.jpg
+# Kiana
+kiana_url: /kiana/
+kiana_profile_src: /assets/img/kiana_headshot2022_square.jpg
+# Ming
+ming_url: /ming/
+ming_profile_src: /assets/img/ming-profile2.jpg
+# Maneesh
+maneesh_url: /maneesh/
+maneesh_profile_src: /assets/img/maneesh-profile.JPG
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
