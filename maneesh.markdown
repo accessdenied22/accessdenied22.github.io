@@ -8,7 +8,6 @@ img_sources:
   - /assets/img/maneesh3.jpeg
   - /assets/img/maneesh2.jpg
 greeting: Hi! Welcome to my profile page!
-comments: true
 ---
 
 I am a student in UIowa's ECE Senior Design for the 2022-2023 academic year. I'm part of Team 4, Access Denied.
