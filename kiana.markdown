@@ -5,7 +5,7 @@ permalink: /kiana/
 profile_pic_src: /assets/img/kiana_headshot2022_square.jpg
 img_sources:
   - /assets/img/kiana_page_pic1.JPG
-  - /assets/img/kiana_page_pic2.png
+  - /assets/img/kiana_page_pic2.JPG
 greeting: Hi and welcome to my profile page!
 ---
 
