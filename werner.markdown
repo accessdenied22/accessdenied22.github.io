@@ -5,7 +5,7 @@ permalink: /werner/
 profile_pic_src: /assets/img/
 img_sources:
   - /assets/img/WB-pic1.jpg
-  - /assets/img/WB-pic2.jpg
+  - /assets/img/WB-pic4.jpg
   - /assets/img/WB-pic3.jpg
 greeting: Hi! Welcome to my profile page!
 ---
