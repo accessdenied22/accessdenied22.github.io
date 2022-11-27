@@ -25,4 +25,4 @@ permalink: /lab1/
 ![](/assets/img/Lab1_hardware.png)
 *Figure 3: The complete project hardware, view of the interior*
 
-## [> Complete Report Available Online](https://docs.google.com/document/d/1PQ9GbdkRLO2jWuFnlRnbq-0oBm3MXlaoVgIZr7sTr-U/edit?usp=sharing){:target="_blank"}
+## [Report](https://docs.google.com/document/d/1PQ9GbdkRLO2jWuFnlRnbq-0oBm3MXlaoVgIZr7sTr-U/edit?usp=sharing){:target="_blank"} / [Code](https://github.com/accessdenied22/SeniorDesignLab1)

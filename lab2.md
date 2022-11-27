@@ -22,4 +22,4 @@ permalink: /lab2/
 ![](/assets/img/lab2-2ndchoice.jpg)
 *Figure 3: The complete receiver circuit*
 
-## [> Complete Report Available Online](https://docs.google.com/document/d/1aG0b_mFECTtD6Mjk1xTKgTgyh8bTG4-WC5oXn0yhgpk/edit?usp=sharing){:target="_blank"}
+## [Report](https://docs.google.com/document/d/1aG0b_mFECTtD6Mjk1xTKgTgyh8bTG4-WC5oXn0yhgpk/edit?usp=sharing){:target="_blank"} / [Code](https://github.com/accessdenied22/SeniorDesignLab2)
