@@ -1,18 +1,10 @@
 ---
-layout: profile
+layout: project
 title: Senior Design Lab 3
+subtitle: Team Portfolio Website
 permalink: /lab3/
-img_sources:
-  - /assets/img/
-  - /assets/img/
 ---
-
-# Senior Design Lab 3
-
-## Title
-                      
 
 ## Introduction
 
-## Communication & Schematic Diagram
----
+## Figures

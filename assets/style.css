@@ -2,6 +2,14 @@ body {
     box-sizing: border-box;
 }
 
+.page-content {
+    background-color: #fff;
+}
+
+.site-header, .site-footer {
+    background-color: #fafafa;
+}
+
 /* ROW-COLUMN CLASSES */
 .col {
     flex: 1;
@@ -31,11 +39,37 @@ body {
   }
 }
 
+h1 {
+    font-family: 'Coda', sans-serif;
+}
+
+.site-title {
+    font-family: 'Oxanium', sans-serif;
+}
 
 /* HOME PAGE */
 .home {
     text-align: center;
 }
+.home-card {
+    margin: 10px;
+    padding-top: 1em;
+    border: 2px solid #cccccc;
+    border-radius: 7px;
+}
+.home-card:hover {
+    border: 2px solid #99ccff;
+}
+.home-card-heading {
+    text-align: center;
+    font-family: 'Oxanium', sans-serif;
+    font-weight: bold;
+}
+.home-card a:link { text-decoration: none; }
+.home-card a:visited { text-decoration: none; }
+.home-card a:hover { text-decoration: none; }
+.home-card a:active { text-decoration: none; }
+
 .about-block {
     padding-bottom: 1em;
 }
@@ -47,7 +81,7 @@ body {
     border-radius: 50%;
 }
 .about-content {
-
+    padding-top: 1em;
 }
 .team-block-heading {
     text-align: center;
@@ -74,7 +108,7 @@ body {
     text-align: center;
 }
 
-.profile-header {
+.profile-header, .project-header {
     text-align: center;
     padding-bottom: 0.5em;
     border-bottom: 1px solid #ccc;
@@ -88,7 +122,26 @@ body {
 
     padding-bottom: 0.5em;
     border-bottom: 1px solid #ccc;
-    margin-bottom: 1em;
+    margin-bottom: 50px;
+}
+
+.project-subtitle {
+    font-style: italic;
+}
+.project-content {
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 50px;
+}
+.project-content p img {
+    display: block;
+    margin: auto;
+}
+.project-content p img + em {
+    display: block;
+    text-align: center;
+    color: #777;
+    padding-bottom: 1em;
 }
 
 /* GENERAL */

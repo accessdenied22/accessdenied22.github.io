@@ -1,16 +1,9 @@
 ---
-layout: profile
+layout: project
 title: Senior Design Lab 2
+subtitle: Noise-Robust Infrared Light Curtain Receiver with Buzzer and SMS Alerts
 permalink: /lab2/
-img_sources:
-  - /assets/img/Lab2ComDiagram-2.jpg
-  - /assets/img/lab2SDiagram.jpg
 ---
-
-# Senior Design Lab 2
-
-## Title
-Noise-Robust Infrared Light Curtain Receiver with Buzzer and SMS Alerts                         
 
 ## Introduction
 
@@ -18,5 +11,15 @@ Noise-Robust Infrared Light Curtain Receiver with Buzzer and SMS Alerts
 - Designed circuit layout with components incl. infrared phototransistor, buffer, filter, amplifier, and voltage regulator
 - Implemented buzzer function and increased detection distance, programming analog-to-digital converter (ADC) in Arduino Uno ith C language; wrote scripts for SMS alerts sending in C language  
 
-## Communication & Schematic Diagram
----
+## Figures
+
+![](/assets/img/Lab2ComDiagram-2.jpg)
+*Figure 1: A high-level view of major subsystems*
+
+![](/assets/img/Lab2_circuit.png)
+*Figure 2: Schematic of circuit design*
+
+![](/assets/img/lab2-2ndchoice.jpg)
+*Figure 3: The complete receiver circuit*
+
+## [> Complete Report Available Online](https://docs.google.com/document/d/1aG0b_mFECTtD6Mjk1xTKgTgyh8bTG4-WC5oXn0yhgpk/edit?usp=sharing)
