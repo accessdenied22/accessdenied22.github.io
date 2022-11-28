@@ -7,4 +7,16 @@ permalink: /lab3/
 
 ## Introduction
 
+- Designed and deployed a website as a portfolio of our team, including the member information and projects
+- Implemented Jekyll on GitHub's servers, HTML template fiels, and static files such as images and CSS stylesheets
+- Implemented Google Fonts to load the fonts Coda and Oxanium and Disqus for visitors to comment
 ## Figures
+
+![](/assets/img/lab3-view.jpg)
+*Figure 1: A high-level view of major subsystems*
+
+![](/assets/img/lab3-view2.jpg)
+*Figure 2: Diagram of pages grouped by layout, with Markdown file names in parentheses*
+
+
+## [Report]() / [Code]()
