@@ -19,5 +19,8 @@ permalink: /lab3/
 ![](/assets/img/lab3view2.jpg)
 *Figure 2: Diagram of pages grouped by layout, with Markdown file names in parentheses*
 
+![](/assets/img/lab3view3.png)
+*Figure 2: Home page of team portfolio website*
+
 
 ## [Report](https://docs.google.com/document/d/1ZFb5mZsp_u-5JMseRqmH7K8rBucD17bacw_xUfrmNg8/edit?usp=sharing){:target="_blank"} / [Code](https://github.com/accessdenied22/accessdenied22.github.io)
