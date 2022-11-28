@@ -7,9 +7,10 @@ permalink: /lab3/
 
 ## Introduction
 
-- Designed and deployed a website as a portfolio of our team, including the member information and projects
+- Designed and deployed a website as a portfolio of our team, including the member information and projects introduction
 - Implemented Jekyll on GitHub's servers, HTML template fiels, and static files such as images and CSS stylesheets
-- Implemented Google Fonts to load the fonts Coda and Oxanium and Disqus for visitors to comment
+- Implemented Google Fonts to load the fonts Coda and Oxanium
+- Used Disqus to complement the functionality of team portfolio websit by enabling visitors to comment
 
 ## Figures
 
