@@ -2,6 +2,8 @@
 layout: projects
 title: Projects
 permalink: /projects/
+capstone_url: /capstone-project/
+capstone_pic: /assets/img/sd_lego_model_wide.png
 lab1_url: /lab1/
 lab2_url: /lab2/
 lab3_url: /lab3/

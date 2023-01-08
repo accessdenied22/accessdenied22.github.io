@@ -93,7 +93,7 @@ h1 {
     border-radius: 7px;
 }
 .team-card:hover {
-    margin: 5px;
+    /* margin: 5px; */
     border: 2px solid #99ccff;
 }
 .team-card-heading {
